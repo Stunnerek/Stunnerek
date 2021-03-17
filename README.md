@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stunnerek
+- 👋 Hi, I’m Kamil
 - 👀 I’m interested in programming Java and Python
 - 🌱 I’m currently learning Html and CSS
 - 💞️ I’m looking to collaborate on ...
