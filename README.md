@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stunnerek
 - 👀 I’m interested in programming Java and Python
-- 🌱 I’m currently learning Html and CSS
+- 🌱 I currently learned Html and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord: Stunner#5641
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
