@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Stunnerek
-- 👀 I’m interested in programming Java and Python
-- 🌱 I currently learned Html and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: Stunner#5641
+- name:Stunnerek
+- known languages: Polish,English
+- programming languages ATM: PHP,Python
+- HTML,CSS,operate database,
+- discord: Stunner#5641
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!---
 Stunnerek/Stunnerek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
